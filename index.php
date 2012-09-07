@@ -64,7 +64,7 @@ else
 
 // Require Framework
 // Defines: DEBUG, APP_PATH, HELPER_PATH, BASE_URL, DEFAULT_CONTROLLER, DEFAULT_ACTION, DEFAULT_TIMEZONE
-require_once(CORE_ROOT.DIRECTORY_SEPARATOR.'Framework.php');
+require_once(CORE_ROOT . DIRECTORY_SEPARATOR . 'Framework.php');
 
 
 // CMS defaults
